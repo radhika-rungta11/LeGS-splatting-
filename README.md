@@ -14,14 +14,6 @@ LeGS is a **learnable framework** to density control for 3D Gaussian Splatting t
 
 
 
-##  Quick Start
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/AaronNZH/LeGS.git --recursive
-cd LeGS
-```
 
 ###  Environment Setup
 
