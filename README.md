@@ -12,8 +12,7 @@ LeGS is a **learnable framework** to density control for 3D Gaussian Splatting t
 - ** High fidelity**:  Significantly improves rendering quality with comparable training time.
 - **Easy Integration**: Seamlessly integrates with various backbones (Vanilla 3DGS, FastGS, etc.)
 
-##  Latest Updates
-####  **[2026.05.01]** Code Released - Get Started Now! 🚀
+
 
 ##  Quick Start
 
@@ -56,7 +55,7 @@ datasets/
     └── ...
 ```
 
-The MipNeRF360 scenes are hosted by the paper authors [here](https://jonbarron.info/mipnerf360/). You can find our SfM data sets for Tanks&Temples and Deep Blending [here](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/datasets/input/tandt_db.zip). 
+
 
 ##  Training & Evaluation
 
